@@ -25,6 +25,7 @@ Project was created with:
 Please click on github link to launch project.
 https://elease123.github.io/Code-Refactor/
 
+![digital marketing screenshot](https://user-images.githubusercontent.com/89282394/140662447-81c0745c-bcfe-43d4-91c0-acfa91e9bd4c.png)
 
 
 
